@@ -1,1 +1,1 @@
-create the file using writeFileSync
+creasfte the file using writeFileSync
